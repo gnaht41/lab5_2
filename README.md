@@ -11,5 +11,5 @@
 - Cookie `httpOnly` để bảo mật
 
 ## 🔹 Cài đặt
-- git clone https://github.com/username/repo-name.git
+- git clone https://github.com/gnaht41/lab5_2.git
 - cd repo-name
