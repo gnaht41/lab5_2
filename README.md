@@ -12,4 +12,5 @@
 
 ## 🔹 Cài đặt
 - git clone https://github.com/gnaht41/lab5_2.git
-- cd repo-name
+- Đổi .env.example thành .env và đổi thông số
+- Cài lại các packages
